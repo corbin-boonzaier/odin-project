@@ -27,8 +27,8 @@ ul{
 background: #f2f2f2;
 border-top: 1px solid #e4e4e4;
 line-height: 1px;
-width: page; margin: auto; 
-padding: 0;padding-top: 0; list-style-type: none; overflow: hidden
+width: auto; margin: auto; 
+padding: 0;padding-top: 0; list-style-type: none; overflow: auto
 }
 
 ul li {float: left}
